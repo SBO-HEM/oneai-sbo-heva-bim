@@ -1,4 +1,4 @@
-# oneai-sbo-heva-bim
+# oneai-sbo-heva-bim Test
 #setwd("/home/oneai/sbo-heva-bimmm")
 #install.packages("shiny", dependencies = TRUE)
 library(shiny)
